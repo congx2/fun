@@ -5,9 +5,11 @@ nestjs + mongonDB
 
 log/cookie auth/
 
-banner/works/comments/news/article/sites
+模块：banner/works/comments/news/article/sites
 
-分页/上下架
+前端：前台 + 后台
+前台：查询展示
+后台：增删改查/分页/上下架
 
 Response: {
     code: number; 0 - OK, other: error
